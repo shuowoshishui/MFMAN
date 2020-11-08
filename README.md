@@ -1,5 +1,5 @@
 # MFMAN
-# Multi-features and multi- adversarial adaptation haze fields<br>
+# Haze image recognition through multi-scale feature and multi-adversarial<br>
 ### This is the code of MFMAN<br>
 proposed a new diversity real haze dataset<br>
 dataset name Real-haze12,Real-clear12,Resources in Baidu Cloud，link：https://pan.baidu.com/s/1gZrmJsNhiXOWvKwb8pOzuQ :`dnxd`<br>
